@@ -1,7 +1,6 @@
-# Hi, I'm Monica and I'm looking for a job! 👋🏻
+# Hi, I'm Monica! 👋🏻
 
-In 2020, I earned my master's degree in data analytics. I'm looking for a role where I can leverage my **social science training** and **data interpretation skills** to add value to a company I believe in. I consider myself lifelong learner and a generalist, but some of my special interests are statistics, methodology, and social good. I'm eager to bring my breadth of experience to making sense of data, no matter how messy.
- 
+In 2020, I earned my master's degree in data analytics. I consider myself lifelong learner and a generalist, but some of my special interests are statistics, methodology, and social good. 
  
  ## I'm all about...
  * Python
@@ -9,11 +8,6 @@ In 2020, I earned my master's degree in data analytics. I'm looking for a role w
  * SQL
  * data visualization
  * machine learning
- 
- ## I'd like to spend more time with...
- * APIs
- * testing
- * interactive visualizations
  
  ## Let's talk!
  
